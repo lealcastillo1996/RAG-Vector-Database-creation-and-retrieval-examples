@@ -62,7 +62,7 @@ Tip: After running the app for first time and successfully creating the DBs, I s
 
 Q: Why I used sentence transformers emebeddings rather then OpenAI embeddings?
 
-A: As you can see in embeddings_speed_test.ipynb, Although the performance of OpenAI embeddings is well known to be high with a dimensionality of 1536, the latency time for generating them is a concern, as you can see in embeddings_speed_test.ipynb notebook, sentence transormers embeddings are computed faster. The performance of sentence transformers is lower (dimensionality of 384), but for this food menu simple task, is enough. 
+A: As you can see in embeddings_speed_test.ipynb, Although the performance of OpenAI embeddings is well known to be high with a dimensionality of 1536, the latency time for generating them is a concern, as you can see in embeddings_speed_test.ipynb notebook, sentence transformers embeddings are computed faster. The performance of sentence transformers is lower (dimensionality of 384), but for this food menu simple task, is enough. 
 
 # VOX_task1 conclusions:
 
