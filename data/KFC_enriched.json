@@ -1,0 +1,1667 @@
+{
+    "Location": {
+        "name": "KFC"
+    },
+    "Chicken": {
+        "C1": [
+            "Original Recipe",
+            3.5,
+            {
+                "nutritionalInfo": {
+                    "kcal": 400,
+                    "fat": 22,
+                    "protein": 28,
+                    "itemId": 4,
+                    "allergens": [
+                        "wheat",
+                        "soy"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "original, food, chicken, recipe, poultry"
+            }
+        ],
+        "C2": [
+            "Popcorn Chicken",
+            4,
+            {
+                "nutritionalInfo": {
+                    "kcal": 350,
+                    "fat": 20,
+                    "protein": 25,
+                    "itemId": 6,
+                    "allergens": [
+                        "wheat",
+                        "soy"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "popcorn, food, chicken, nuggets, fried chicken"
+            }
+        ],
+        "C4": [
+            "Hot Wings",
+            3,
+            {
+                "nutritionalInfo": {
+                    "kcal": 270,
+                    "fat": 18,
+                    "protein": 19,
+                    "itemId": 5,
+                    "allergens": [
+                        "wheat"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "spicy, food, chicken, wings, hot wings"
+            }
+        ],
+        "C5": [
+            "Snackbox",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 69,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "fried chicken, food, snack, box meal, poultry"
+            }
+        ],
+        "C6": [
+            "Crispy Tenders",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 70,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "chicken, food, crispy, tenders, poultry"
+            }
+        ],
+        "C7": [
+            "Original Piece",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 76,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "original, food, chicken, poultry, fried chicken"
+            }
+        ],
+        "C8": [
+            "Tender Chicken",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 81,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "poultry, food, chicken, tender, no allergens"
+            }
+        ]
+    },
+    "Drinks": {
+        "D1": [
+            "Iced Tea",
+            2.8,
+            {
+                "nutritionalInfo": {
+                    "kcal": 340,
+                    "fat": 17,
+                    "protein": 4,
+                    "itemId": 12,
+                    "allergens": [
+                        "wheat"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "iced, drink, tea, cold beverage, non-alcoholic"
+            }
+        ],
+        "D2": [
+            "Pepsi",
+            2.8,
+            {
+                "nutritionalInfo": {
+                    "kcal": 170,
+                    "fat": 10,
+                    "protein": 2,
+                    "itemId": 9,
+                    "allergens": [
+                        "dairy"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "soda, beverage, cola, carbonated drink, pepsi"
+            }
+        ],
+        "D3": [
+            "7Up",
+            2.8,
+            {
+                "nutritionalInfo": {
+                    "kcal": 340,
+                    "fat": 17,
+                    "protein": 4,
+                    "itemId": 10,
+                    "allergens": [
+                        "wheat"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "soda, drink, lemon-lime, soft drink, 7Up"
+            }
+        ],
+        "D4": [
+            "Fanta",
+            2.8,
+            {
+                "nutritionalInfo": {
+                    "kcal": 170,
+                    "fat": 10,
+                    "protein": 2,
+                    "itemId": 11,
+                    "allergens": [
+                        "dairy"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "soda, drink, orange, fanta, non-alcoholic"
+            }
+        ],
+        "D5": [
+            "Sourcy",
+            15,
+            {
+                "available": false
+            },
+            {
+                "keywords": "water, drink, sourcy, mineral water, non-alcoholic"
+            }
+        ],
+        "D6": [
+            "Tropicana Apple",
+            15,
+            {
+                "available": false
+            },
+            {
+                "keywords": "juice, drink, apple, Tropicana, non-alcoholic"
+            }
+        ],
+        "D7": [
+            "Guava",
+            15,
+            {
+                "available": false
+            },
+            {
+                "keywords": "guava, fruit, drink, juice, tropical"
+            }
+        ],
+        "D8": [
+            "Tea",
+            15,
+            {
+                "available": false
+            },
+            {
+                "keywords": "tea, drink, hot beverage, caffeine, herbal"
+            }
+        ],
+        "D9": [
+            "Latte",
+            15,
+            {
+                "available": false
+            },
+            {
+                "keywords": "coffee, hot drink, latte, espresso, milk"
+            }
+        ],
+        "D10": [
+            "Espresso",
+            15,
+            {
+                "available": false
+            },
+            {
+                "keywords": "coffee, hot drink, caffeine, espresso, beverage"
+            }
+        ],
+        "D11": [
+            "Coffee",
+            15,
+            {
+                "available": false
+            },
+            {
+                "keywords": "coffee, beverage, caffeine, espresso, hot drink"
+            }
+        ],
+        "D12": [
+            "Sisi",
+            15,
+            {
+                "available": false
+            },
+            {
+                "keywords": "soda, drink, citrus, refreshment, sisi"
+            }
+        ],
+        "D13": [
+            "Fernandes",
+            15,
+            {
+                "available": false
+            },
+            {
+                "keywords": "soda, drink, soft drink, Fernandes, non-alcoholic"
+            }
+        ],
+        "D14": [
+            "Lipton",
+            15,
+            {
+                "available": false
+            },
+            {
+                "keywords": "tea, drink, lipton, beverage, non-alcoholic"
+            }
+        ]
+    },
+    "Burgers": {
+        "B1": [
+            "Crunch Burger",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 77,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "crunch, food, hamburger, patty, no allergens"
+            }
+        ],
+        "B2": [
+            "Original Fillet Breaded",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 84,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "chicken, food, burger, fillet, breaded"
+            }
+        ],
+        "B3": [
+            "Original Fillet",
+            15,
+            {
+                "available": false
+            },
+            {
+                "keywords": "chicken, food, burger, fillet, no allergens"
+            }
+        ],
+        "B4": [
+            "Filet Burger",
+            4.7,
+            {
+                "nutritionalInfo": {
+                    "kcal": 400,
+                    "fat": 20,
+                    "protein": 27,
+                    "itemId": 3,
+                    "allergens": [
+                        "wheat",
+                        "soy"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "beef, food, hamburger, gourmet, no allergens"
+            }
+        ],
+        "B5": [
+            "Zinger Burger",
+            4.5,
+            {
+                "nutritionalInfo": {
+                    "kcal": 451,
+                    "fat": 25,
+                    "protein": 28,
+                    "itemId": 1,
+                    "allergens": [
+                        "wheat",
+                        "soy"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "spicy, food, chicken, burger, zinger"
+            }
+        ],
+        "B6": [
+            "Tower Burger",
+            5.2,
+            {
+                "nutritionalInfo": {
+                    "kcal": 500,
+                    "fat": 30,
+                    "protein": 30,
+                    "itemId": 2,
+                    "allergens": [
+                        "wheat",
+                        "soy"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "tower, food, hamburger, double patty, no allergens"
+            }
+        ],
+        "B7": [
+            "Veggie Burger",
+            10,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 63,
+                    "allergens": [
+                        "whey",
+                        "soy"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "vegetarian, food, burger, plant-based, no meat"
+            }
+        ],
+        "B8": [
+            "Fire Zinger Stacker",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 64,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "spicy, food, chicken, burger, zinger"
+            }
+        ],
+        "B9": [
+            "Fire Zinger",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 100,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 65,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "spicy, food, chicken, burger, zinger"
+            }
+        ],
+        "B10": [
+            "Colonel Stacker",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 66,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "chicken, food, burger, stacker, no allergens"
+            }
+        ],
+        "B11": [
+            "Colonel Burger",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 67,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "chicken, food, hamburger, fast food, Colonel Burger"
+            }
+        ],
+        "B12": [
+            "Veggie Tender",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 71,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "vegetarian, food, burger, plant-based, no meat"
+            }
+        ],
+        "B13": [
+            "Filet Bites",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 68,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "beef, food, burger, meat, bite-sized"
+            }
+        ],
+        "B14": [
+            "Original Burger",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 74,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "beef, food, hamburger, sandwich, no allergens"
+            }
+        ],
+        "B15": [
+            "Zinger Burger",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 75,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "spicy, food, chicken, burger, zinger"
+            }
+        ],
+        "B16": [
+            "Cheeseburger",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 82,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "burger, cheese, fast food, sandwich, beef"
+            }
+        ],
+        "B17": [
+            "Zinger Filet",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 83,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "chicken, food, burger, spicy, zinger"
+            }
+        ]
+    },
+    "Sauces": {
+        "S1": [
+            "Apple Sauce",
+            15,
+            {
+                "available": false
+            },
+            {
+                "keywords": "apple, condiment, sauce, dessert, apple sauce"
+            }
+        ]
+    },
+    "Side dishes": {
+        "SD1": [
+            "Coleslaw",
+            1.7,
+            {
+                "nutritionalInfo": {
+                    "kcal": 170,
+                    "fat": 10,
+                    "protein": 2,
+                    "itemId": 7,
+                    "allergens": [
+                        "dairy"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "cabbage, salad, side dish, coleslaw, vegetable"
+            }
+        ],
+        "SD2": [
+            "Fries",
+            2.5,
+            {
+                "nutritionalInfo": {
+                    "kcal": 340,
+                    "fat": 17,
+                    "protein": 4,
+                    "itemId": 8,
+                    "allergens": [
+                        "wheat"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "potato, snack, chips, side dish, fries"
+            }
+        ],
+        "SD3": [
+            "Corn",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 73,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "corn, side dish, vegetable, healthy, gluten-free"
+            }
+        ]
+    },
+    "Desserts": {
+        "DE1": [
+            "Chocolate Sundae",
+            2.5,
+            {
+                "nutritionalInfo": {
+                    "kcal": 220,
+                    "fat": 9,
+                    "protein": 3,
+                    "itemId": 13,
+                    "allergens": [
+                        "dairy",
+                        "soy"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "chocolate, dessert, ice cream, sundae, sweet"
+            }
+        ],
+        "DE2": [
+            "Apple Pie",
+            2.2,
+            {
+                "nutritionalInfo": {
+                    "kcal": 250,
+                    "fat": 12,
+                    "protein": 2,
+                    "itemId": 14,
+                    "allergens": [
+                        "wheat",
+                        "soy"
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "apple, dessert, pie, sweet, pastry"
+            }
+        ],
+        "DE3": [
+            "Ice Cream",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 95,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "sweet, dessert, cold, ice cream, treat"
+            }
+        ]
+    },
+    "Vegetarian": {
+        "V1": [
+            "Veggie",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 72,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "vegetable, healthy, vegan, plant-based, veggie"
+            }
+        ],
+        "V2": [
+            "Veggie Tenders",
+            15,
+            {
+                "nutritionalInfo": {
+                    "kcal": 150,
+                    "fat": 100,
+                    "protein": 10,
+                    "itemId": 78,
+                    "allergens": [
+                        ""
+                    ]
+                },
+                "available": false
+            },
+            {
+                "keywords": "vegetable, food, vegan, tenders, vegetarian"
+            }
+        ]
+    },
+    "Menus": {
+        "M1": {
+            "name": "Meal Deal for 2",
+            "price": 4.95,
+            "contents": [
+                [
+                    "Cheeseburger",
+                    2
+                ],
+                [
+                    "Hot Wings",
+                    4
+                ],
+                [
+                    "Fries",
+                    2
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "S,L"
+                }
+            ],
+            "keywords": "meal deal, cheeseburger, hot wings, fries, drinks"
+        },
+        "M2": {
+            "name": "Meal Deal for 1",
+            "price": 4.95,
+            "contents": [
+                [
+                    "Cheeseburger",
+                    1
+                ],
+                [
+                    "Crispy Tenders",
+                    2
+                ],
+                [
+                    "Fries",
+                    1
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "S"
+                }
+            ],
+            "keywords": "meal, deal, cheeseburger, crispy tenders, fries"
+        },
+        "M3": {
+            "name": "2 Original pieces meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Original Piece",
+                    2
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "M"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                }
+            ],
+            "keywords": "original piece, meal, drinks, side dishes, menus"
+        },
+        "M4": {
+            "name": "Fire Zinger Burger Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Fire Zinger",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "M"
+                }
+            ],
+            "keywords": "burger, meal, side dish, drink, fire zinger"
+        },
+        "M5": {
+            "name": "Zinger Burger Box Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Zinger Burger",
+                    1
+                ],
+                [
+                    "Hot Wings",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "burger, meal, zinger, hot wings, side dishes"
+        },
+        "M6": {
+            "name": "Colonel Stacker Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Colonel Stacker",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "meal, colonel stacker, side dishes, large drink, menu"
+        },
+        "M7": {
+            "name": "Snackbox 3 Filet Bites",
+            "price": 30,
+            "contents": [
+                [
+                    "Filet Bites",
+                    3
+                ],
+                [
+                    "Fries",
+                    1
+                ]
+            ],
+            "keywords": "snackbox, filet bites, fries, fast food, menu"
+        },
+        "M8": {
+            "name": "Snackbox 3 Hot Wings",
+            "price": 30,
+            "contents": [
+                [
+                    "Hot Wings",
+                    3
+                ],
+                [
+                    "Fries",
+                    1
+                ]
+            ],
+            "keywords": "chicken, food, hot wings, fries, snackbox"
+        },
+        "M9": {
+            "name": "Colonel Burger Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Colonel Burger",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "burger, meal, side dish, drink, Colonel Burger"
+        },
+        "M10": {
+            "name": "Snackbox 1 Original piece",
+            "price": 30,
+            "contents": [
+                [
+                    "Fries",
+                    1
+                ],
+                [
+                    "Original Piece",
+                    1
+                ]
+            ],
+            "keywords": "fries, chicken, snackbox, fast food, combo meal"
+        },
+        "M11": {
+            "name": "Veggie Burger Meal",
+            "price": 15,
+            "contents": [
+                [
+                    "Veggie Burger",
+                    1
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                }
+            ],
+            "keywords": "veggie, meal, drink, side dish, burger"
+        },
+        "M12": {
+            "name": "Original Burger Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Original Burger",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "burger, meal, side dish, drink, menu"
+        },
+        "M13": {
+            "name": "3 Original pieces Boxmeal",
+            "price": 30,
+            "contents": [
+                [
+                    "Original Piece",
+                    3
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "chicken, meal, side dishes, large drink, original piece"
+        },
+        "M14": {
+            "name": "Variety Box Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Hot Wings",
+                    3
+                ],
+                [
+                    "Original Piece",
+                    1
+                ],
+                [
+                    "Crispy Tenders",
+                    2
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                }
+            ],
+            "keywords": "chicken, meal box, hot wings, crispy tenders, side dishes"
+        },
+        "M15": {
+            "name": "4 Veggie Tender meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Hot Wings",
+                    6
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "veggie, meal, hot wings, side dishes, large drink"
+        },
+        "M16": {
+            "name": "Veggie Burger Box Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Veggie Tenders",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "veggie, meal, burger, side dishes, large drink"
+        },
+        "M17": {
+            "name": "8 Hot Wings Box Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Hot Wings",
+                    8
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "hot wings, meal, side dishes, large drink, menus"
+        },
+        "M18": {
+            "name": "Twister meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Crispy Tenders",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "meal, crispy tenders, side dishes, large drink, twister meal"
+        },
+        "M19": {
+            "name": "Veggie Box Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Veggie Tenders",
+                    5
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "veggie, meal, tenders, side dishes, large drink"
+        },
+        "M20": {
+            "name": "4 Veggie Tender meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Veggie Tenders",
+                    4
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                }
+            ],
+            "keywords": "veggie, meal, drink, side dish, tenders"
+        },
+        "M21": {
+            "name": "Boneless bucket",
+            "price": 30,
+            "contents": [
+                [
+                    "Crispy Tenders",
+                    10
+                ],
+                [
+                    "Filet Bites",
+                    6
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                }
+            ],
+            "keywords": "crispy tenders, filet bites, side dishes, boneless bucket, menus"
+        },
+        "M22": {
+            "name": "Snack box 3 Filet Bites",
+            "price": 30,
+            "contents": [
+                [
+                    "Filet Bites",
+                    3
+                ],
+                [
+                    "Fries",
+                    1
+                ]
+            ],
+            "keywords": "chicken, snack, fries, meal, filet bites"
+        },
+        "M23": {
+            "name": "Snackbox 1 Original piece",
+            "price": 30,
+            "contents": [
+                [
+                    "Original Piece",
+                    1
+                ],
+                [
+                    "Fries",
+                    1
+                ]
+            ],
+            "keywords": "chicken, fries, fast food, snackbox, meal"
+        },
+        "M24": {
+            "name": "Snackbox 2 Crispy Tenders",
+            "price": 30,
+            "contents": [
+                [
+                    "Fries",
+                    1
+                ],
+                [
+                    "Crispy Tenders",
+                    2
+                ]
+            ],
+            "keywords": "snackbox, fries, crispy tenders, fast food, menus"
+        },
+        "M25": {
+            "name": "Twister meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Crispy Tenders",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "meal, crispy tenders, side dishes, large drink, twister meal"
+        },
+        "M26": {
+            "name": "Zinger Burger Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Zinger Burger",
+                    1
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                }
+            ],
+            "keywords": "burger, meal, drink, side dish, zinger"
+        },
+        "M27": {
+            "name": "Original Burger Boxmeal",
+            "price": 30,
+            "contents": [
+                [
+                    "Original Burger",
+                    1
+                ],
+                [
+                    "Hot Wings",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "burger, meal, boxmeal, hot wings, side dishes"
+        },
+        "M28": {
+            "name": "Veggie Boxmeal",
+            "price": 30,
+            "contents": [
+                [
+                    "Veggie Tender",
+                    5
+                ],
+                [
+                    "Pepsi",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "veggie, meal, boxmeal, vegetarian, side dishes"
+        },
+        "M29": {
+            "name": "Filet Bites Boxmeal",
+            "price": 30,
+            "contents": [
+                [
+                    "Filet Bites",
+                    9
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "filet bites, boxmeal, side dishes, large drink, menus"
+        },
+        "M30": {
+            "name": "Boneless Box Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Crispy Tenders",
+                    5
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "meal, boneless, crispy tenders, side dishes, large drink"
+        },
+        "M31": {
+            "name": "Double Crunch Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Crunch Burger",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "burger, meal, side dish, drink, crunch"
+        },
+        "M32": {
+            "name": "Snack box 2 Veggie Tenders",
+            "price": 30,
+            "contents": [
+                [
+                    "Veggie Tenders",
+                    2
+                ],
+                [
+                    "Fries",
+                    1
+                ]
+            ],
+            "keywords": "veggie, snack box, fries, tenders, menu"
+        },
+        "M33": {
+            "name": "Fire Twister meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Crispy Tenders",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "meal, crispy tenders, side dishes, large drink, fire twister"
+        },
+        "M34": {
+            "name": "Veggie Bucket",
+            "price": 30,
+            "contents": [
+                [
+                    "Veggie Tenders",
+                    10
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                }
+            ],
+            "keywords": "veggie, tenders, drink, side dishes, menu"
+        },
+        "M35": {
+            "name": "Veggie Burger Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Veggie Burger",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "veggie, burger, meal, vegetarian, side dishes"
+        },
+        "M36": {
+            "name": "Veggie Twister meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Crispy Tenders",
+                    2
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                }
+            ],
+            "keywords": "veggie, meal, crispy tenders, drink, side dish"
+        },
+        "M37": {
+            "name": "Veggie Kids Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Veggie Tenders",
+                    2
+                ],
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Sauces",
+                    "choose": 1
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                }
+            ],
+            "keywords": "veggie, kids meal, healthy, tenders, side dish"
+        },
+        "M38": {
+            "name": "Variety bucket",
+            "price": 30,
+            "contents": [
+                [
+                    "Original Piece",
+                    4
+                ],
+                [
+                    "Hot Wings",
+                    6
+                ],
+                [
+                    "Crispy Tenders",
+                    4
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Sauces",
+                    "choose": 1
+                }
+            ],
+            "keywords": "bucket meal, chicken, side dishes, sauces, variety bucket"
+        },
+        "M39": {
+            "name": "Veggie Bucket",
+            "price": 30,
+            "contents": [
+                [
+                    "Veggie Tenders",
+                    10
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 2
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "veggie, tenders, side dishes, drinks, menu"
+        },
+        "M40": {
+            "name": "Family bucket",
+            "price": 30,
+            "contents": [
+                [
+                    "Hot Wings",
+                    12
+                ],
+                [
+                    "Original Piece",
+                    4
+                ],
+                [
+                    "Crispy Tenders",
+                    6
+                ],
+                [
+                    "Filet Bites",
+                    9
+                ],
+                [
+                    "Fries",
+                    4
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 4
+                }
+            ],
+            "keywords": "bucket meal, family meal, chicken, fries, side dishes"
+        },
+        "M41": {
+            "name": "Kids Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Filet Bites",
+                    3
+                ],
+                [
+                    "Original Piece",
+                    1
+                ],
+                {
+                    "from": "Burgers",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                },
+                {
+                    "from": "Sauces",
+                    "choose": 1
+                },
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                }
+            ],
+            "keywords": "kids meal, fast food, burgers, drinks, side dishes"
+        },
+        "M42": {
+            "name": "Veggie Kids Meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Veggie Tenders",
+                    2
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "veggie, kids meal, tenders, side dishes, large drink"
+        },
+        "M43": {
+            "name": "Fire Zinger Stacker meal",
+            "price": 30,
+            "contents": [
+                [
+                    "Fire Zinger Stacker",
+                    1
+                ],
+                {
+                    "from": "Side dishes",
+                    "choose": 1
+                },
+                {
+                    "from": "Drinks",
+                    "size": "L"
+                }
+            ],
+            "keywords": "zinger, meal, side dish, large drink, fire stacker"
+        }
+    }
+}
