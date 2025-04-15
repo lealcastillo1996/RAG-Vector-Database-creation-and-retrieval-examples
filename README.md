@@ -1,17 +1,17 @@
-# VOX TASK 1 Project Structure and content:
+Project Structure and content:
 
-## _RAG Retrievers UI APP
+## RAG Retrievers UI APP
 The main objective of this app is to show case the operation of different RAG retrievers used to build a prompt to an LLM for taking orders, with the one with the best tradeoff between speed, performance and scalability.
 
 This project consists of a main application run by Streamlit, serving as a User Interface (UI). It enables visual inspection of the built RAG retrievers. The RAG retrieval options include Cloud, Local and Self-built solutions for this RAG task
 
-## _DBs and files for retrieval
+## DBs and files for retrieval
 The functions for creating the different vector stores and files used for local retrieval are commented in the start of the app
 
-## _Dataset enrichment
+## Dataset enrichment
 An important feature for this approach is the dataset enrichment, it was done by running menu_enriching_code.py in the data folder, it generates a list of keywords for improving keyword search. It also replaces the product ids with the names of the products inside the menus to have a better response from the llm responses.
 
-## _LLM responses
+## LLM responses
 An implementation of both mistral and gpt4 was done to get a sample of a response using the built prompt with the retriever
 
 ## _Evaluation
@@ -24,7 +24,7 @@ Metrics to evaluate:
 
 # Operation
 
-## _Instructions to run APP
+## Instructions to run APP
 1.- Pull the repository from Github
 
 2.- create python enviroment in the main folder of the project
@@ -42,7 +42,7 @@ $command: pip install -r requirements.txt
 $command: streamlit run app.py
 
 
-## _Source of knowledge
+## Source of knowledge
 The documents used to build the knowledge of the explored retrievers are stored in data/
 
 ## Adding or modifying sources:
@@ -63,9 +63,6 @@ Tip: After running the app for first time and successfully creating the DBs, I s
 Q: Why I used sentence transformers emebeddings rather then OpenAI embeddings?
 
 A: As you can see in embeddings_speed_test.ipynb, Although the performance of OpenAI embeddings is well known to be high with a dimensionality of 1536, the latency time for generating them is a concern, as you can see in embeddings_speed_test.ipynb notebook, sentence transformers embeddings are computed faster. The performance of sentence transformers is lower (dimensionality of 384), but for this food menu simple task, is enough. 
-
-# VOX_task1 conclusions:
-
 # Conclusions
 
 
